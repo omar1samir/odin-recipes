@@ -1,0 +1,18 @@
+body, title {
+    background-color: oklch(0.21 0.03 263.45);
+    color: oklch(0.93 0.01 0);
+    font-family: 'Tahoma', 'Arial';
+    font-weight:lighter;
+    margin: 50px;
+}
+
+.recipes-list, .ingredients, .steps{
+    box-sizing: border-box;
+    background-color: oklch(0.26 0.04 260.98);
+    padding: 24px;
+    margin: 10px;
+}
+
+img{
+    margin-left: auto;
+}
